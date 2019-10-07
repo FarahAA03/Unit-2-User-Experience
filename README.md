@@ -6,7 +6,7 @@
 - 4.3 Menus and pickers :
 - 4.4 User navigation :
 - 4.5 Recycler view :
-- 5.1 Drawables, styles, and themes :
+- 5.1 Drawables, styles, and themes :https://youtu.be/RhGs0-sNtwE
 - 5.2 Cards and colors :
 - 5.3 Adaptive layouts :
 - 6.1 Espresso for UI testing :
