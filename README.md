@@ -5,7 +5,7 @@
 - 4.2 Inputs controls :https://youtu.be/A4X-TXjwmpw
 - 4.3 Menus and pickers :https://youtu.be/1u_vZyXyupo
 - 4.4 User navigation :https://youtu.be/usJ7rUyh5YA
-- 4.5 Recycler view :
+- 4.5 Recycler view :https://youtu.be/SDlg-0EO-Fg
 - 5.1 Drawables, styles, and themes :https://youtu.be/RhGs0-sNtwE
 - 5.2 Cards and colors :
 - 5.3 Adaptive layouts :
